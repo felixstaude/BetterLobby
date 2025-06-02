@@ -1,0 +1,4 @@
+name: BetterLobby
+version: '1.0-SNAPSHOT'
+main: de.felixstaude.betterLobby.BetterLobby
+api-version: '1.21'
